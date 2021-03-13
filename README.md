@@ -3,6 +3,6 @@ I'm going to throw up all my [blender](https://www.blender.org/) creations in th
 
 # skull drop
 
-[fuc](skull drop.gif)
+![image](https://github.com/tacocabeza/blenderportfolio/blob/main/skull%20drop.gif)
 
 
